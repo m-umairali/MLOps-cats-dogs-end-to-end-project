@@ -14,3 +14,5 @@
 - Docker
 - Github Actions
 - AWS
+
+  ![](MLOps workflow image.PNG)
