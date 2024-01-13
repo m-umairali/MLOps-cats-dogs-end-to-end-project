@@ -1,1 +1,16 @@
-# ECR url: 562083151863.dkr.ecr.us-east-1.amazonaws.com/catdog
+# Created with 
+- tensorflow
+- pandas 
+- notebook
+- numpy
+- matplotlib
+- seaborn
+- python-box
+- PyYAML
+- tqdm
+- ensure
+- scipy
+- Flask
+- Docker
+- Github Actions
+- AWS
